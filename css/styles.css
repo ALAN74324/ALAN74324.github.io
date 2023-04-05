@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: cadetblue;
+    text-decoration: brown;
+    margin-top: 2em;
+    border-radius: 2em;
+}
+
+
+#parrafo{
+    color: blue;
+}
+.cabecera{
+    background-color: black;
+    color: blanchedalmond;
+    border-radius: 1%;
+    padding: 1em;
+    box-shadow: 0px 2px 20px 0px blue;
+}
+
+.portada{
+    width: 590px;
+    height: 512px;
+
+}
+
+.robin{
+    width: 450px;
+    height: 512px;
+
+}
+
+footer{
+    margin-top: 32px;
+    background-color: black;
+    color: white;
+
+}
